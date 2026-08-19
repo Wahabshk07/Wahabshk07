@@ -1,11 +1,11 @@
-<!-- Ocean sunset GIF with game dev theme (GitHub Camo blocks animated SVG) -->
+<!-- Profile banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Wahabshk07/Wahabshk07/main/assets/ocean-sunset.gif" alt="Sunset ocean with moving waves, sailboat, dolphin, and game dev HUD" width="100%" />
+  <img src="https://raw.githubusercontent.com/Wahabshk07/Wahabshk07/main/assets/ocean-sunset.gif" alt="Profile banner" width="100%" />
 </p>
 
 <p align="center">
-  <b>Hey, I'm Wahab</b> — Senior Full-Stack, Mobile &amp; Game Developer<br/>
-  Building scalable products &amp; immersive games that ship
+  <b>Hey, I'm Wahab</b> — Senior Full-Stack &amp; Mobile Engineer<br/>
+  Building scalable products that ship
 </p>
 
 ---
@@ -48,17 +48,6 @@ I'm a **senior software engineer** who builds end-to-end products — from polis
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
-#### Game Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Game_Design-7C3AED?style=for-the-badge&logo=gamejolt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Multiplayer-FF006E?style=for-the-badge&logo=socketdotio&logoColor=white" />
-</p>
-
 #### DevOps & Cloud
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,linux,githubactions" />
@@ -88,7 +77,6 @@ I'm a **senior software engineer** who builds end-to-end products — from polis
 | **Frontend** | React / Next.js performance, Core Web Vitals, code-splitting, caching strategies |
 | **Backend** | NestJS, REST & GraphQL, queues (BullMQ/Redis), Prisma, PostgreSQL |
 | **Mobile** | React Native + Expo — iOS & Android from a single codebase |
-| **Game Dev** | Unity, Unreal, Godot — 2D/3D games, multiplayer, mobile & PC builds |
 | **DevOps** | Docker, Kubernetes, CI/CD pipelines, Nginx, production hardening |
 | **AI / ML** | CNN model design & training, computer vision pipelines, model integration |
 | **Engineering** | Code reviews, mentorship, testing, observability, security (JWT, RBAC) |
