@@ -86,8 +86,8 @@ I'm a **senior software engineer** who builds end-to-end products — from polis
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wahabshk07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Wahab's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahabshk07&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wahabshk07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Wahab's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wahabshk07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </div>
 
 <div align="center">
@@ -135,7 +135,7 @@ I'm a **senior software engineer** who builds end-to-end products — from polis
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Wahabshk07/Wahabshk07/main/assets/quote.png" alt="All people are nothing but tools... — Kiyotaka Ayanokouji" />
+  <img src="https://raw.githubusercontent.com/Wahabshk07/Wahabshk07/main/assets/quote.png" alt="All people are nothing but tools... — Kiyotaka Ayanokouji" width="820" />
 </div>
 
 ---

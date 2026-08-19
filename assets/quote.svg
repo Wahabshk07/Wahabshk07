@@ -1,22 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="140" viewBox="0 0 700 140">
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="160" viewBox="0 0 820 160">
   <defs>
-    <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#7B2CBF" stop-opacity="0.35"/>
+    <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D9FF"/>
+      <stop offset="50%" stop-color="#7B2CBF"/>
+      <stop offset="100%" stop-color="#FF006E"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#12131f"/>
+      <stop offset="100%" stop-color="#1a1b2e"/>
     </linearGradient>
   </defs>
 
-  <rect x="1" y="1" width="698" height="138" rx="12" fill="#1a1b27" stroke="url(#border)" stroke-width="2"/>
+  <!-- outer glow border -->
+  <rect x="2" y="2" width="816" height="156" rx="14" fill="url(#bg)" stroke="url(#border)" stroke-width="2"/>
 
-  <text x="24" y="42" font-family="Georgia, serif" font-size="36" fill="#7B2CBF" opacity="0.9">"</text>
+  <!-- accent bar -->
+  <rect x="2" y="2" width="816" height="4" rx="14" fill="url(#border)" opacity="0.9"/>
 
-  <text x="52" y="38" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#00D9FF">
-    <tspan x="52" dy="0">All people are nothing but tools... In this world, winning is everything.</tspan>
-    <tspan x="52" dy="22">As long as I win in the end... that's all that matters.</tspan>
+  <!-- decorative quote icon -->
+  <text x="36" y="58" font-family="Georgia, serif" font-size="48" fill="#7B2CBF" opacity="0.45">"</text>
+
+  <!-- quote text block -->
+  <text x="410" y="62" text-anchor="middle"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="15" font-style="italic" fill="#00D9FF">
+    <tspan x="410" dy="0">All people are nothing but tools...</tspan>
+    <tspan x="410" dy="24">In this world, winning is everything.</tspan>
+    <tspan x="410" dy="24">As long as I win in the end... that's all that matters.</tspan>
   </text>
 
-  <text x="668" y="98" text-anchor="end" font-family="Georgia, serif" font-size="36" fill="#7B2CBF" opacity="0.9">"</text>
+  <!-- divider -->
+  <line x1="280" y1="128" x2="540" y2="128" stroke="#7B2CBF" stroke-width="1" opacity="0.35"/>
 
-  <text x="668" y="122" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif"
-        font-size="13" font-weight="600" fill="#7c9cff">- Kiyotaka Ayanokouji</text>
+  <!-- author -->
+  <text x="410" y="148" text-anchor="middle"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="13" font-weight="600" fill="#a8b4ff">Kiyotaka Ayanokouji</text>
 </svg>
