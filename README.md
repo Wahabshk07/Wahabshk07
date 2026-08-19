@@ -1,6 +1,6 @@
-<!-- Profile banner -->
+<!-- Profile banner — Classroom of the Elite meme GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Wahabshk07/Wahabshk07/main/assets/ocean-sunset.gif" alt="Profile banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Wahabshk07/Wahabshk07/main/assets/banner.gif" alt="Profile banner" width="100%" />
 </p>
 
 <p align="center">
