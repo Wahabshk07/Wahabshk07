@@ -99,7 +99,7 @@ I'm a **senior software engineer** who builds end-to-end products — from polis
 ### 🏆 Trophy Case
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wahabshk07&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=Wahabshk07&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -107,10 +107,14 @@ I'm a **senior software engineer** who builds end-to-end products — from polis
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Wahabshk07/Wahabshk07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wahabshk07/Wahabshk07/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wahabshk07/Wahabshk07/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Wahabshk07/Wahabshk07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  </picture>
 </div>
 
-> If the snake isn't visible yet, add the [contribution snake workflow](https://github.com/Platane/snk#use-github-actions-as-a-generation-source) — it appears after the first GitHub Actions run.
+> The snake is generated automatically by GitHub Actions after each push to `main`.
 
 ---
 
@@ -131,7 +135,7 @@ I'm a **senior software engineer** who builds end-to-end products — from polis
 </div>
 
 <div align="center">
-  <img src="https://quote-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote" />
 </div>
 
 ---
