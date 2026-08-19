@@ -141,5 +141,5 @@ I'm a **senior software engineer** who builds end-to-end products — from polis
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2CBF,100:FF006E&height=120&section=footer" alt="wave footer" />
+  <img src="https://raw.githubusercontent.com/Wahabshk07/Wahabshk07/main/assets/footer-ocean.gif" alt="Two people sitting on the ocean shore enjoying the sunset" width="100%" />
 </div>
