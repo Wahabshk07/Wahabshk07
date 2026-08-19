@@ -1,6 +1,7 @@
 <!-- Ocean sunset scene: moving water, sailboat, flying dolphin -->
+<!-- GitHub profile README blocks local SVG paths — use jsDelivr CDN -->
 <div align="center">
-  <img src="./assets/ocean-sunset.svg" alt="Sunset ocean with moving waves, a boat, and a flying dolphin" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/Wahabshk07/Wahabshk07@main/assets/ocean-sunset.svg" alt="Sunset ocean with moving waves, a boat, and a flying dolphin" width="100%" />
 </div>
 
 <p align="center">
