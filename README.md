@@ -1,6 +1,6 @@
-<!-- Eagle fly-by (full README width). GitHub cannot run JS over the whole page. -->
+<!-- Ocean sunset scene: moving water, sailboat, flying dolphin -->
 <div align="center">
-  <img src="./assets/eagle-fly.svg" alt="Eagle flying across a sunset sky" width="100%" />
+  <img src="./assets/ocean-sunset.svg" alt="Sunset ocean with moving waves, a boat, and a flying dolphin" width="100%" />
 </div>
 
 <p align="center">
