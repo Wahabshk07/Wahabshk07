@@ -1,11 +1,6 @@
-<!-- Profile banner — Classroom of the Elite meme GIF -->
+<!-- Profile banner: sliding intro text (left) + meme GIF (right) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Wahabshk07/Wahabshk07/main/assets/banner.gif" alt="Profile banner" width="100%" />
-</p>
-
-<p align="center">
-  <b>Hey, I'm Wahab</b> — Senior Full-Stack &amp; Mobile Engineer<br/>
-  Building scalable products that ship
+  <img src="https://raw.githubusercontent.com/Wahabshk07/Wahabshk07/main/assets/banner.gif" alt="Hey, I'm Wahab — Senior Full-Stack & Mobile Engineer" width="100%" />
 </p>
 
 ---
