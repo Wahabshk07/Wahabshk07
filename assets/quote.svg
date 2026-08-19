@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="140" viewBox="0 0 700 140">
+  <defs>
+    <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#7B2CBF" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="698" height="138" rx="12" fill="#1a1b27" stroke="url(#border)" stroke-width="2"/>
+
+  <text x="24" y="42" font-family="Georgia, serif" font-size="36" fill="#7B2CBF" opacity="0.9">"</text>
+
+  <text x="52" y="38" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#00D9FF">
+    <tspan x="52" dy="0">All people are nothing but tools... In this world, winning is everything.</tspan>
+    <tspan x="52" dy="22">As long as I win in the end... that's all that matters.</tspan>
+  </text>
+
+  <text x="668" y="98" text-anchor="end" font-family="Georgia, serif" font-size="36" fill="#7B2CBF" opacity="0.9">"</text>
+
+  <text x="668" y="122" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="13" font-weight="600" fill="#7c9cff">- Kiyotaka Ayanokouji</text>
+</svg>

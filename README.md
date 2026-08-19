@@ -135,7 +135,7 @@ I'm a **senior software engineer** who builds end-to-end products — from polis
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote" />
+  <img src="https://raw.githubusercontent.com/Wahabshk07/Wahabshk07/main/assets/quote.png" alt="All people are nothing but tools... — Kiyotaka Ayanokouji" />
 </div>
 
 ---
