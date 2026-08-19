@@ -1,8 +1,7 @@
-<!-- Ocean sunset scene: moving water, sailboat, flying dolphin -->
-<!-- GitHub profile README blocks local SVG paths — use jsDelivr CDN -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Wahabshk07/Wahabshk07@main/assets/ocean-sunset.svg" alt="Sunset ocean with moving waves, a boat, and a flying dolphin" width="100%" />
-</div>
+<!-- Ocean sunset GIF (GitHub Camo blocks animated SVG on profile READMEs) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Wahabshk07/Wahabshk07/main/assets/ocean-sunset.gif" alt="Sunset ocean with moving waves, a boat, and a flying dolphin" width="100%" />
+</p>
 
 <p align="center">
   <b>Hey, I'm Wahab</b> — Senior Full-Stack &amp; Mobile Engineer<br/>
