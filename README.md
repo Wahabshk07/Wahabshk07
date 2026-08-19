@@ -1,7 +1,12 @@
-<!-- Profile banner: sliding intro text (left) + meme GIF (right) -->
+<!-- Coder banner: peaceful coding under burden → all work done -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Wahabshk07/Wahabshk07/main/assets/banner.gif" alt="Hey, I'm Wahab — Senior Full-Stack & Mobile Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/Wahabshk07/Wahabshk07/main/assets/coder-banner.gif" alt="Coder writing code through burden to a peaceful end of day" width="100%" />
 </p>
+
+<!-- Live typing intro (runtime effect via SVG service) -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=Hey%2C+I'm+Wahab+%F0%9F%91%8B;Senior+Full-Stack+%26+Mobile+Engineer;Building+scalable+products+that+ship" alt="Typing introduction" />
+</div>
 
 ---
 
