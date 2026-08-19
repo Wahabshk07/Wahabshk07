@@ -1,13 +1,12 @@
-<!-- Banner -->
+<!-- Eagle fly-by (full README width). GitHub cannot run JS over the whole page. -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Hey%2C+I'm+Wahab+%F0%9F%91%8B;Senior+Full-Stack+%26+Mobile+Engineer;Building+scalable+products+that+ship" alt="Typing SVG" />
+  <img src="./assets/eagle-fly.svg" alt="Eagle flying across a sunset sky" width="100%" />
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500" alt="coding animation" />
-</div>
+<p align="center">
+  <b>Hey, I'm Wahab</b> — Senior Full-Stack &amp; Mobile Engineer<br/>
+  Building scalable products that ship
+</p>
 
 ---
 
